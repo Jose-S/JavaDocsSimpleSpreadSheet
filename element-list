@@ -1,0 +1,9 @@
+edu.cs3500.spreadsheets
+edu.cs3500.spreadsheets.model
+edu.cs3500.spreadsheets.model.cells
+edu.cs3500.spreadsheets.model.cellstest
+edu.cs3500.spreadsheets.model.function
+edu.cs3500.spreadsheets.model.functiontest
+edu.cs3500.spreadsheets.model.values
+edu.cs3500.spreadsheets.model.vexptest
+edu.cs3500.spreadsheets.sexp
